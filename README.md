@@ -28,12 +28,10 @@
       <p><b>Education</b></p>
        <li>2017.09-2021.07,Undergraduate, Department of Computer Science and Technology,Yantai university,China<br>
       </li>
-      <h1>Rewards</h1>
-      <p><b>Competition</b></p>
-      <li><br>
+      <p><b>Rewards</b></p>
+      <li>Competition<br>
       </li>
-      <p><b>Scholarship</b></p>
-      <li><br>
+      <li>Scholarship<br>
       </li>
     </td>
 
