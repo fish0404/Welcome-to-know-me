@@ -23,22 +23,20 @@
   
   <tr>
     <td width="75%">
-      <h1>Education</h1>
+      <h1>Personal Statement</h1>
       <p><b>Name: Mu Xiaoyu</b></p>
       <p><b>Education</b></p>
        <li>2017.09-2021.07,Undergraduate, Department of Computer Science and Technology,Yantai university,China<br>
-      </li>     
-    </td>
-  
-   <td width="75%">
-      <h1>Rewards</h1>
+      </li>
+      <h2>Rewards</h2>
       <p><b>Competition</b></p>
-       <li><br>
+      <li><br>
       </li>
       <p><b>Scholarship</b></p>
       <li><br>
       </li>
     </td>
+
   </tr>
   
   
