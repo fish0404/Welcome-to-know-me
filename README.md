@@ -3,7 +3,7 @@
     <td width="75%">
       <h1>Mu Xiaoyu(牟晓瑜)</h1>
       <p><b>Undergraduate</b></p>
-      <p><b>School of Computer Science, Yantai university</b></p>
+      <p><b>School of Computer Science and Technology, Yantai university</b></p>
     </td>
     <td width="25%">
       <img src="/a.jpg" width="100%">    
@@ -13,10 +13,14 @@
 <table border="0">
     <tr>
     <td width="75%">
-      <h1>Research Direction</h1>
+      <h1>Research Interest</h1>
        <li>Computer Science<br>
       </li>
       <li>Artificial Intelligence<br>
+      </li>
+      <li>Data minning <br>
+      </li>
+      <li>machine learning<br>
       </li>
     </td>
   </tr>
@@ -25,7 +29,7 @@
     <td width="75%">
       <h1>Personal Statement</h1>
       <p><b>Education</b></p>
-       <li>2017.09-2021.07,Undergraduate, Department of Computer Science and Technology,Yantai university,China<br>
+       <li>2017.09-2021.07, Undergraduate, School of Computer Science and Technology, Yantai university,China<br>
       </li>
       <p><b>Competition</b></p>
       <li>the national Second Prize of ASC Student Supercomputer Challenge<br>
