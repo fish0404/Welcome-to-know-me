@@ -4,7 +4,7 @@
     <!--meta 单标签 用来引入或声明一些内容-->
     <meta charset="UTF-8">
     <!--title 标题标签-->
-    <title>个人主页</title>
+    <title>About Me</title>
     <style>
         body{
             /*边界看宽度默认为8,在这里初始值设为零*/
@@ -124,20 +124,20 @@
             <ul>
                 <!--实现点击首页标签跳转到指定界面-->
                 <!--a标签  超链接标签-->
-                <li><a href="#header">首页</a></li>
+                <li><a href="#header">Home</a></li>
                 <li><a href="#html5">HTML5</a></li>
-                <li><a href="#classmates">我的同学</a></li>
-                <li><a href="#hometown">我的家乡</a></li>
-                <li><a href="#myschool">我的学校</a></li>
-                <li><a href="#myself">关于我</a></li>
+                <li><a href="#classmates">My Classmates</a></li>
+                <li><a href="#hometown">My hometown</a></li>
+                <li><a href="#myschool">My College</a></li>
+                <li><a href="#myself">It's me</a></li>
             </ul>
         </div>
     </nav>
-    <img id="header" src="personage/header.jpg" alt="晨曦">
+    <img id="header" src="a.jpg">
     <!--main 元素 标记网页中的主要部分内容-->
     <main>
         <!--p标签，用来标记网页中的段落内容！-->
-        <p>“学好一门技术的唯一方法是使用它,在使用它的过程中才能真正学会它。如果能够在使用它的过程中体会到乐趣,就是学习的最佳"状态。希望大家在学习HTML5的过程中多多练习,多敲代码一定会有回报,意想不到的收获都会在使用的过程中进发出来。”</p>
+        <p>“Where there is a will, there is a way”</p>
         <!--section 组件、模块, 块元素-->
         <section id="html5">
             <img src="personage/html5.jpg" alt="html5.jpg">
