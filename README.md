@@ -24,7 +24,6 @@
   <tr>
     <td width="75%">
       <h1>Personal Statement</h1>
-      <p><b>Name: Mu Xiaoyu</b></p>
       <p><b>Education</b></p>
        <li>2017.09-2021.07,Undergraduate, Department of Computer Science and Technology,Yantai university,China<br>
       </li>
