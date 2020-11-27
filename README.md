@@ -28,10 +28,19 @@
       <p><b>Education</b></p>
        <li>2017.09-2021.07,Undergraduate, Department of Computer Science and Technology,Yantai university,China<br>
       </li>
-      <p><b>Rewards</b></p>
-      <li>Competition<br>
+      <p><b>Competition</b></p>
+      <li>the national Second Prize of ASC Student Supercomputer Challenge<br>
       </li>
-      <li>Scholarship<br>
+      <li> the ”Provincial Third Prize” of Blue Bridge Cup Competition<br>
+      </li>
+      <li> the ”Third Prize of Shandong Provincial Mathematics Competition”<br>
+      </li>
+      <p><b>Scholarship</b></p>
+      <li> ”Outstanding Student Scholarship” of Yantai University (top 8%)<br>
+      </li>
+       <li> ”Xinde Enterprise Encouragement Scholarship” (top 2%)<br>
+      </li>
+       <li> ”Golden Dragon Enterprise Encouragement Scholarship” (top 4%)<br>
       </li>
     </td>
 
