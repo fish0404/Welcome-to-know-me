@@ -12,8 +12,8 @@
             font-family: 楷体;
         }
         nav{
-            width: 100%;
-            height: 200px;
+            width: 50%;
+            height: 300px;
             /*定位方式: 固定位置*/
             position: fixed;
             top: 0;
