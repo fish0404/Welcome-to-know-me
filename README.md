@@ -4,7 +4,7 @@
     <!--meta 单标签 用来引入或声明一些内容-->
     <meta charset="UTF-8">
     <!--title 标题标签-->
-    <title>About Me</title>
+    <title>个人主页</title>
     <style>
         body{
             /*边界看宽度默认为8,在这里初始值设为零*/
@@ -81,4 +81,102 @@
             background-image: url('personage/classmates.jpg');
             background-size: 1000px 630px;
             /*relative 相对的 相对定位 */
-            /*1. 相对自己原来的位置做位置
+            /*1. 相对自己原来的位置做位置的微调
+            2.让该标签下的子标签做绝对定位时，以该标签为参考物调整，而不再是以浏览器边框为参考物*/
+            position: relative;
+        }
+        #myclassmate img{
+            border:2px white solid;
+            border-radius: 50%;
+            /*absolute1.绝对定位的元素会被浮起来，原来的位置会被后面的元素侵占*/
+            position: absolute;
+        }
+        /*找到div下的第1个子标签*/
+        #myclassmate img:nth-child(1){
+            width: 200px;
+            top: 100px;
+            left: 100px;
+        }
+        /*找到div下的第2个子标签*/
+        #myclassmate img:nth-child(2){
+            width: 270px;
+            top: 260px;
+            left: 360px;
+        }
+        /*找到div下的第3个子标签*/
+        #myclassmate img:nth-child(3){
+            width: 230px;
+            top: 100px;
+            right: 60px;
+        }
+    </style>
+</head>
+<body>
+    <!--加载音频文件-->
+    <audio src="葫芦娃.mp3" autoplay></audio>
+    <!--加载视频文件-->
+    <video src=""></video>
+    <!--navigation 导航 标记网页中的导航条 块元素-->
+    <nav>
+        <div>
+            <h1>MXY<h1/>
+            <!--ul无序列表 li 列表元素-->
+            <ul>
+                <!--实现点击首页标签跳转到指定界面-->
+                <!--a标签  超链接标签-->
+                <li><a href="#myself">About me</a></li>
+                <li><a href="#header">Home</a></li>
+                <li><a href="#classmates">My Classmates</a></li>
+                <li><a href="#myschool">My School</a></li>     
+            </ul>
+        </div>
+    </nav>
+    <img id="header" src="xy.jfif" >
+    <!--main 元素 标记网页中的主要部分内容-->
+    <main>
+        <!--p标签，用来标记网页中的段落内容！-->
+        <p>“Where there is a will, there is a way.”</p>
+        <!--section 组件、模块, 块元素-->
+        <section id="About me">
+            <img src="LT.jfif">
+            <p><b>Undergraduate</b></p>
+            <p><b>School of Computer Science and Technology, Yantai University</b></p>
+             <h1>Research Interest</h1>
+       <li>Computer Science<br>
+      </li>
+      <li>Artificial Intelligence<br>
+      </li>
+      <li>Data minning <br>
+      </li>
+      <li>machine learning<br>
+      </li>
+            <p><b>Education</b></p>
+       <li>2017.09-2021.07, Undergraduate, School of Computer Science and Technology, Yantai University,China<br>
+      </li>
+        </section>
+        <section id="classmates">
+            <h2>我的同学</h2>
+            <div id="myclassmate">
+                <img src="personage/wf.png" alt="">
+                <img src="personage/lry.jpg" alt="">
+                <img src="personage/ldh.jpg" alt="">
+            </div>
+            <p>“王菲、刘若英、刘德华都是我的同学。”</p>
+        </section>
+        <section id="hometown">
+            <h2>我的家乡</h2>
+            <img src="personage/hometown.JPG" alt="hometown.jpg">
+            <p>我的家乡是个美丽的城市。</p>
+        </section>
+        <section id="myschool">
+            <h2>我的学校</h2>
+            <img src="personage/lzu.jpg" alt="lzu.jpg">
+            <p>我的学校是一所很好的学校。</p>
+        </section>
+    </main>
+    <hr>
+    <!--声明个人版权-->
+    <p id="myself" style="text-align: center;">&copy;木之易，版权所有。</p>
+ 
+</body>
+</html>
