@@ -12,12 +12,12 @@
             font-family: 楷体;
         }
         nav{
-            width: 100%;
-            height: 100px;
+            width: 150%;
+            height: 120px;
             /*定位方式: 固定位置*/
             position: fixed;
             top: 0;
-            background-color: white;
+            background-color: green;
             z-index: 1000;
         }
         /*找到nav标签下 div标签后代选择器 ，可以找到nav下的所有的div标签*/
