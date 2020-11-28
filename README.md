@@ -58,8 +58,22 @@
       <img src="/syh.jpg" width="100%"> 
       <img src="/shu.jpg" width="100%">
       <img src="/yun.jpg" width="100%">
-      <p><b>I like the air and the sky in Yantai, and I prefer Yantai University</b></p>
+      <p><b>I like the air and the sky in Yantai, and I prefer Yantai University.</b></p>
     </td>
-    
+  </tr>
+</table>
+
+</table>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>My Classmates&Friends</h1>
+      <img src="/sj.jpg" width="100%"> 
+      <p><b>We visited Yantai Mountain together.</b></p>
+      <img src="/sx.png" width="100%">
+      <p><b>Professional practice-We visited a Digital company.</b></p>
+      <img src="/hp.jfif" width="100%">
+      <p><b>Our class party, a memorable day!</b></p>
+    </td>
   </tr>
 </table>
