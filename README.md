@@ -18,7 +18,7 @@
             position: fixed;
             top: 0;
             background-color: white;
-            z-index: 1000;
+            z-index: 500;
         }
         /*找到nav标签下 div标签后代选择器 ，可以找到nav下的所有的div标签*/
         nav div{
