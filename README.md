@@ -47,10 +47,9 @@
       </li>
     </td>
 
-  </tr>
-  
-  
+  </tr> 
 </table>
+
 <table border="0">
   <tr>
     <td width="75%">
@@ -63,7 +62,7 @@
   </tr>
 </table>
 
-</table>
+
 <table border="0">
   <tr>
     <td width="75%">
