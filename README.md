@@ -51,3 +51,13 @@
   
   
 </table>
+<table border="0">
+    <tr>
+    <td width="75%">
+      <h1>My College</h1>
+      <td width="75%">
+      <img src="/syh.jpg" width="100%">
+    </td>
+    
+  </tr>
+</table>
