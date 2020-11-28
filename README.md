@@ -12,12 +12,12 @@
             font-family: 楷体;
         }
         nav{
-            width: 150%;
-            height: 120px;
+            width: 100%;
+            height: 140px;
             /*定位方式: 固定位置*/
             position: fixed;
             top: 0;
-            background-color: green;
+            background-color: white;
             z-index: 1000;
         }
         /*找到nav标签下 div标签后代选择器 ，可以找到nav下的所有的div标签*/
@@ -119,7 +119,7 @@
     <!--navigation 导航 标记网页中的导航条 块元素-->
     <nav>
         <div>
-            <img id="logo" src="personage/logo.png" alt="两座山峰">
+            <h1>MXY</h1>
             <!--ul无序列表 li 列表元素-->
             <ul>
                 <!--实现点击首页标签跳转到指定界面-->
