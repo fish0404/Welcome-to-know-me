@@ -52,11 +52,13 @@
   
 </table>
 <table border="0">
-    <tr>
+  <tr>
     <td width="75%">
       <h1>My College</h1>
-      <td width="75%">
-      <img src="/syh.jpg" width="100%">
+      <img src="/syh.jpg" width="100%"> 
+      <img src="/shu.jpg" width="100%">
+      <img src="/yun.jpg" width="100%">
+      <p><b>I like the air and the sky in Yantai, and I prefer Yantai University</b></p>
     </td>
     
   </tr>
