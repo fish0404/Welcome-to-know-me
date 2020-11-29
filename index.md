@@ -19,9 +19,9 @@
       </li>
       <li>Artificial Intelligence<br>
       </li>
-      <li>Data minning <br>
+      <li>Data Minning <br>
       </li>
-      <li>machine learning<br>
+      <li>Machine Learning<br>
       </li>
     </td>
   </tr>
@@ -32,6 +32,7 @@
       <p><b>Education</b></p>
        <li>2017.09-2021.07, Undergraduate, School of Computer Science and Technology, Yantai University,China<br>
       </li>
+      ####
       <p><b>Competition</b></p>
       <li>the national Second Prize of ASC Student Supercomputer Challenge<br>
       </li>
@@ -39,6 +40,7 @@
       </li>
       <li> the ”Third Prize of Shandong Provincial Mathematics Competition”<br>
       </li>
+      ####
       <p><b>Scholarship</b></p>
       <li> ”Outstanding Student Scholarship” of Yantai University (top 8%)<br>
       </li>
@@ -58,7 +60,7 @@
       <img src="/syh.jpg" width="100%"> 
       <img src="/shu.jpg" width="100%">
       <img src="/yun.jpg" width="100%">
-      <p><b>I like the air and the sky in Yantai, and I prefer Yantai University.</b></p>
+      <p><b>I like the air and the sky in Yantai, and I love Yantai University.</b></p>
     </td>
   </tr>
 </table>
