@@ -1,78 +1,37 @@
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>Mu Xiaoyu(牟晓瑜)</h1>
-      <p><b>Undergraduate</b></p>
-      <p><b>School of Computer Science and Technology, Yantai University</b></p>
-    </td>
-    <td width="25%">
-      <img src="/a.jpg" width="100%">    
-    </td>
-  </tr>
-</table>
-<table border="0">
-    <tr>
-    <td width="75%">
-      <h1>Research Interest</h1>
-       <li>Computer Science<br>
-      </li>
-      <li>Artificial Intelligence<br>
-      </li>
-      <li>Data minning <br>
-      </li>
-      <li>machine learning<br>
-      </li>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="75%">
-      <h1>Personal Statement</h1>
-      <p><b>Education</b></p>
-       <li>2017.09-2021.07, Undergraduate, School of Computer Science and Technology, Yantai University,China<br>
-      </li>
-      <p><b>Competition</b></p>
-      <li>the national Second Prize of ASC Student Supercomputer Challenge<br>
-      </li>
-      <li> the ”Provincial Third Prize” of Blue Bridge Cup Competition<br>
-      </li>
-      <li> the ”Third Prize of Shandong Provincial Mathematics Competition”<br>
-      </li>
-      <p><b>Scholarship</b></p>
-      <li> ”Outstanding Student Scholarship” of Yantai University (top 8%)<br>
-      </li>
-       <li> ”Xinde Enterprise Encouragement Scholarship” (top 2%)<br>
-      </li>
-       <li> ”Golden Dragon Enterprise Encouragement Scholarship” (top 4%)<br>
-      </li>
-    </td>
+## Welcome to GitHub Pages
 
-  </tr> 
-</table>
+You can use the [editor on GitHub](https://github.com/fish0404/fish0404.github.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>My College</h1>
-      <img src="/syh.jpg" width="100%"> 
-      <img src="/shu.jpg" width="100%">
-      <img src="/yun.jpg" width="100%">
-      <p><b>I like the air and the sky in Yantai, and I prefer Yantai University.</b></p>
-    </td>
-  </tr>
-</table>
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Markdown
 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>My Classmates&Friends</h1>
-      <img src="/sj.jpg" width="100%"> 
-      <p><b>We visited Yantai Mountain together.</b></p>
-      <img src="/sx.png" width="100%">
-      <p><b>Professional practice-We visited a Digital company.</b></p>
-      <img src="/hp.jfif" width="100%">
-      <p><b>Our class party, a memorable day!</b></p>
-    </td>
-  </tr>
-</table>
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fish0404/fish0404.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
