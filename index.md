@@ -32,7 +32,7 @@
       <p><b>Education</b></p>
        <li>2017.09-2021.07, Undergraduate, School of Computer Science and Technology, Yantai University,China<br>
       </li>
-      ####
+      <p><b></b></p>
       <p><b>Competition</b></p>
       <li>the national Second Prize of ASC Student Supercomputer Challenge<br>
       </li>
@@ -40,7 +40,7 @@
       </li>
       <li> the ”Third Prize of Shandong Provincial Mathematics Competition”<br>
       </li>
-      ####
+      <p><b></b></p>
       <p><b>Scholarship</b></p>
       <li> ”Outstanding Student Scholarship” of Yantai University (top 8%)<br>
       </li>
